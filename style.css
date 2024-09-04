@@ -342,3 +342,10 @@ body.hide-header .header {
     margin-top: 0.5rem;
   }
 }
+
+
+@media (max-width: 500px) {
+  .suggestion-list .suggestion{
+    width: 100%;
+  }
+}
